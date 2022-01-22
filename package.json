@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/diogobem/odin_restaurant/issues"
   },
-  "homepage": "https://github.com/diogobem/odin_restaurant#readme"
+  "homepage": "https://github.com/diogobem/odin_restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.1"
+  }
 }
