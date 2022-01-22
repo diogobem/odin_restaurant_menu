@@ -1,0 +1,19 @@
+{
+  "name": "odin_restaurant_menu",
+  "version": "1.0.0",
+  "description": "App For Odin Restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/diogobem/odin_restaurant.git"
+  },
+  "author": "DiogoBem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogobem/odin_restaurant/issues"
+  },
+  "homepage": "https://github.com/diogobem/odin_restaurant#readme"
+}
